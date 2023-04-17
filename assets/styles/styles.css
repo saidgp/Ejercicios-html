@@ -1,0 +1,6 @@
+table{
+    border: 4px double orangered;
+}
+tr , th ,td {
+    border: 2px solid gray
+}
